@@ -1,14 +1,14 @@
 <h1 align="center">Hey, I'm JPablo13 👨‍💻</h1>
-<p align="center">🐾 Ethical Hacker | 🛡️ Junior Cybersecurity Analyst | 🔍 Bug Hunter</p>
+<p align="center"> 🧠 Ethical Hacker | 🔍 Security Researcher | 💻 Junior Cybersecurity Analyst</p>
 
-I'm an aspiring cybersecurity and bug hunting specialist with a strong passion for ethical hacking, information security, and technology. I’m constantly expanding my knowledge through hands-on practice, research, and continuous learning, with the goal of contributing to a safer digital world.
+I'm an aspiring cybersecurity professional and security researcher with a strong passion for ethical hacking, information security, and emerging technologies. I continuously seek to expand my skills through hands-on labs, capture the flag challenges, and in-depth research into system vulnerabilities and attack techniques. My goal is to contribute to a safer digital ecosystem by understanding how systems fail and helping to secure them before they do.
 
 <details>
 <summary>More about me</summary>
 
 - **Name**: Pablo
 - **From**: Costa Rica
-- **Bug Hunter** | **Cybersecurity Analyst** | **Pen Tester**
+- **Ethical Hacker** | **Security Researcher** | **Junior Cybersecurity Analyst**
 - Increasing my knowledge of **web application vulnerabilities**
 - Constant learner: always exploring **everything**
 - Contact me at **pablo13villalobos@gmail.com**
@@ -20,11 +20,13 @@ I'm an aspiring cybersecurity and bug hunting specialist with a strong passion f
 
 <h2 id="present_status"> Present Status </h3>
 
-👉 I continue to learn how to find bugs and perform penetration tests.
+👉 Continuously learning about vulnerability research and penetration testing techniques. 
 
-👉 I write reports on Hack The Box machines.
+👉 Writing detailed reports and walkthroughs for Hack The Box machines.
 
-👉 I share my cybersecurity notes so more people can get started in this field.
+👉 Sharing cybersecurity notes and resources to help others get started in the field.  
+
+👉 Studying for industry certifications (e.g., CompTIA Security+, eJPT, etc.)
 
 `Update`: Journey to become a Cybersecurity Specialist..
 
