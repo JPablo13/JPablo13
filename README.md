@@ -69,6 +69,6 @@ I'm an aspiring cybersecurity professional and security researcher with a strong
 <p align="center">
   <a href="https://www.linkedin.com/in/jpablo-villalobos/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:pablo13villalobos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://medium.com/@pablo13villalobos"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://medium.com/@jpablo13"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
