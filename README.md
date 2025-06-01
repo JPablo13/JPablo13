@@ -63,6 +63,15 @@ I'm an aspiring cybersecurity professional and security researcher with a strong
 
 ---
 
+<h2 id="donate" align=''> Support⚡️</h2>
+
+<details>
+<summary>Buy Me A Coffee</summary>
+
+<p align="center"><a href="https://buymeacoffee.com/jpablo13"><img  src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a></p>
+
+</details>
+
 <p align="center"><i>"Stay curious, keep learning and never stop hacking!"</i></p>
 
 ---
