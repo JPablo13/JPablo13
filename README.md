@@ -63,7 +63,7 @@ I'm an aspiring cybersecurity professional and security researcher with a strong
 
 ---
 
-<h2 id="donate" align=''> Support⚡️</h2>
+<h2 id="donate" align=''> Support </h2>
 
 <details>
 <summary>Buy Me A Coffee</summary>
