@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm JPablo13 👨‍💻</h1>
-<p align="center"> 🧠 Ethical Hacker | 🔍 Security Researcher | 💻 Junior Cybersecurity Analyst</p>
+<p align="center"> 🧠 Ethical Hacker | 🔍 Security Researcher | 💻 Content Creator</p>
 
 I'm an aspiring cybersecurity professional and security researcher with a strong passion for ethical hacking, information security, and emerging technologies. I continuously seek to expand my skills through hands-on labs, capture the flag challenges, and in-depth research into system vulnerabilities and attack techniques. My goal is to contribute to a safer digital ecosystem by understanding how systems fail and helping to secure them before they do.
 
@@ -68,7 +68,7 @@ I'm an aspiring cybersecurity professional and security researcher with a strong
 <details>
 <summary>Buy Me A Coffee</summary>
 
-<p align="center"><a href="https://buymeacoffee.com/jpablo13"><img  src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a></p>
+<p align="center"><a <a href="https://www.buymeacoffee.com/jpablo13" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a></p>
 
 </details>
 
