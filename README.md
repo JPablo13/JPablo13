@@ -6,12 +6,12 @@ I'm an aspiring cybersecurity professional and security researcher with a strong
 <details>
 <summary>More about me</summary>
 
-- **Name**: Pablo
-- **From**: Costa Rica
-- **Ethical Hacker** | **Security Researcher** | **Junior Cybersecurity Analyst**
+- **Name**: Pablo...
+- **From**: Latam
+- **Ethical Hacker** | **Security Researcher** | **Content Creator**
 - Increasing my knowledge of **web application vulnerabilities**
 - Constant learner: always exploring **everything**
-- Contact me at **pablo13villalobos@gmail.com**
+- Contact me at **jpablo13@proton.me**
 
 </details>
 <br>
@@ -20,18 +20,20 @@ I'm an aspiring cybersecurity professional and security researcher with a strong
 
 <h2 id="present_status"> Present Status </h3>
 
-👉 Continuously learning about vulnerability research and penetration testing techniques. 
+👉 Continuous learning about vulnerability research and penetration testing techniques. 
 
-👉 Writing detailed reports and walkthroughs for Hack The Box machines.
+👉 Wrote detailed reports and tutorials for Hack The Box machines.
 
-👉 Sharing cybersecurity notes and resources to help others get started in the field.  
+👉 Created guides on different useful tools for bug bounty and ethical hacking.
 
-👉 Studying for industry certifications (e.g., CompTIA Security+, eJPT, etc.)
+👉 Shared notes and resources on cybersecurity to help others get started in this field.  
 
-`Update`: Journey to become a Cybersecurity Specialist..
+👉 Studying to obtain different industry certifications.
 
+`Update`: On my way to becoming one of the best bug bounty hunters.
 
 ---
+
 <h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
 
 <br>
@@ -75,9 +77,10 @@ I'm an aspiring cybersecurity professional and security researcher with a strong
 <p align="center"><i>"Stay curious, keep learning and never stop hacking!"</i></p>
 
 ---
+
 <p align="center">
   <a href="https://www.linkedin.com/in/jpablo-villalobos/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:pablo13villalobos@proton.me"><img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
+  <a href="mailto:jpablo13@proton.me"><img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
   <a href="https://medium.com/@jpablo13"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
